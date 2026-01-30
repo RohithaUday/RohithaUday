@@ -2,8 +2,10 @@
 👋 Hi, I am Rohitha Uday
 <br>
 <p>
-I am currently strengthening my skills in Automation Testing, API Testing and using AI in testing.
-I use GitHub to showcase my hands-on QA projects, test cases, bug reports and learning work.</p>
+🔗I am currently strengthening my skills in Automation Testing, API Testing, and exploring the use of AI in testing.<br> 
+🐞I use GitHub to showcase my hands-on QA projects, test cases, bug reports, and continuous learning work.<br>
+🛠️I also enjoy experimenting with new tools and frameworks, sharing insights, and applying best practices to improve software quality end-to-end.<br>
+</p>
 
 # Socials:
 ### 🌟 Let’s start a conversation beyond the code
