@@ -1,7 +1,7 @@
 # About Me:
 👋 Hi, I am Rohitha Uday
 <br>
-<p>I am a Software Test Engineer with 5 years of experience in manual testing, test design, and defect management across SDLC. 
+<p>
 I am currently strengthening my skills in Automation Testing, API Testing and using AI in testing.
 I use GitHub to showcase my hands-on QA projects, test cases, bug reports and learning work.</p>
 
