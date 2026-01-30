@@ -1,4 +1,3 @@
-# Rohitha-QA
 # About Me:
 👋 Hi, I am Rohitha Uday
 <br>
