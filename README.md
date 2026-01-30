@@ -1,10 +1,23 @@
 # Rohitha-QA
 # About Me:
-I am currently working on manual testing and automation testing projects.
+👋 Hi, I am Rohitha Uday
+<br>
+<p>I am a Software Test Engineer with 5 years of experience in manual testing, test design, and defect management across SDLC. 
+I am currently strengthening my skills in Automation Testing, API Testing and using AI in testing.
+I use GitHub to showcase my hands-on QA projects, test cases, bug reports and learning work.</p>
+
+# Socials:
+### 🌟 Let’s start a conversation beyond the code
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B5ED7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitha-udaya)
+[![Email](https://img.shields.io/badge/Email-6F42C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithauday@gmail.com)
+
+# Tech Stack:
+Where traditional testing meets automation and AI-driven quality.
+<br>
+[![Manual Testing](https://img.shields.io/badge/Manual%20Testing-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/RohithaUday/Manual-Testing)
+[![Automation Testing](https://img.shields.io/badge/Automation%20Testing-FF9800?style=for-the-badge&logo=selenium&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-D35400?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/rohitha-udaya/java)
+[![SQL](https://img.shields.io/badge/SQL-1F618D?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![AI powered QA](https://img.shields.io/badge/AI%20in%20Testing-6C3483?style=for-the-badge&logo=openai&logoColor=white)]()
 
 
-## 🌐 Socials:
-[!LinkedIn(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohithauday@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
